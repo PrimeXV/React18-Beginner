@@ -1,0 +1,19 @@
+.btn {
+  border: none;
+  /* margin: 20px 0 0 20px; */
+  border-radius: 10px;
+  padding: 10px;
+  /* color: white; */
+}
+
+.btn-primary {
+  background-color: blue;
+}
+
+.btn-secondary {
+  background-color: gray;
+}
+
+.btn-danger {
+  background-color: darkred;
+}
